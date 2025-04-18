@@ -58,9 +58,7 @@ Keyzone is the **ultimate ESP-only solution** for Apex Legends, designed to give
 ---
 
 ## 🎁 **Benefits for Paid Users**
-- Access to **VIP Chat Rooms** for tips, updates, and discussions.
-- Regular updates to keep Keyzone ahead of the competition.
-
+- Access to **VIP Chat Rooms** for tips, updates, and discussions (soon).
 ---
 
 ⚡ **Keyzone** isn’t just another product; it’s the most advanced tool on the market today. Equip yourself and dominate Apex Legends like never before!
